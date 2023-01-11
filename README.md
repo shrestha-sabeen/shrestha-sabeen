@@ -1,5 +1,23 @@
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Sabeen Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="left">A passionate web developer from Nepal</h3>
+<img width="300" align="right" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding" >
+<p align="justify">
+  Web development experience of at least four years and a highly experienced professional who freelanced for various businesses. Outstanding product expertise, including XD, Figma and Photoshop. Collect and evaluate user demands in collaboration with product managers and engineers. Illustrate design ideas via storyboards and process flows. Create UI mockups and prototypes that accurately represent the functionality and design of websites. involvement in all phases of the project lifecycle, including requirement gathering, user analysis, UI design, testing, and implementation.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav-ghimire&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-ghimire" /> </p>
+</p>
+<hr>
+<p align="center">
+:point_right: Bachelor’s Degree in Information Technology<br>
+:point_right: Web development projects<br>
+:point_right: Technical Analysis<br>
+:point_right: Website optimization<br>
+:point_right: Programming<br>
+:point_right: Communications<br>
+:point_right: Problem resolution<br>
+:point_right: Team Spirit<br></p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrestha-sabeen&label=Profile%20views&color=0e75b6&style=flat" alt="shrestha-sabeen" /> </p>
 
