@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **shresthasabeen016@gamil.com**
+- 📫 How to reach me **shresthasabeen016@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sabeen-shrestha-9822581b6/](https://www.linkedin.com/in/sabeen-shrestha-9822581b6/)
 
